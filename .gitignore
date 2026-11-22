@@ -1,0 +1,6 @@
+ShortcutBatch.exe
+ShortcutBatch.ini
+testdata/
+*.user
+bin/
+obj/
